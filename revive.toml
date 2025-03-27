@@ -31,3 +31,4 @@ warningCode = 0
 [rule.package-comments]
   Disabled = true
 
+test
